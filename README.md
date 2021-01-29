@@ -14,8 +14,6 @@ Each team member has made contributions to both client (front - end) and server 
 
 The client side can be found here _-_ GitHub Repo = https://github.com/Quaran-Team/client-Amazin .
 
-And live deployed at ... {}.
-
 ---
 
 We created the server in Java using Spring-Boot. Using Maven for our dependencies and Fly Way to manage our data migrations. 
